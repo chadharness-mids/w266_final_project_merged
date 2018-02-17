@@ -1,0 +1,23 @@
+.DS_Store
+
+# Data
+*.csv
+*.pkl
+*.pickle
+*.p
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs
+*.log
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Config Files
+*.config
+*.conf
+
